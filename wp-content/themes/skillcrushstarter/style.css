@@ -181,6 +181,7 @@ h2 {
 	font-size: 1.25em;
 	line-height: 2;
 }
+
 h3 {
 	font-size: 18px;
 	font-size: 1.125em;
@@ -495,6 +496,7 @@ body {
 #sidebar {
 	padding-top: 1.25em;
 }
+
 #sidebar ul {
 	margin: 0;
 }
@@ -553,7 +555,7 @@ body {
 	vertical-align: middle;
 }
 
-#sidebar .widget-title h2 {
+#sidebar .widget h2 {
 	font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
 	color: #45ac9d;
 	margin: 0 auto 1.25em;
@@ -565,6 +567,7 @@ body {
 	color: #45ac9d;
 	margin: 0 auto 1.25em;
 }
+
 #sidebar .widget_categories ul li,
 #sidebar .widget_archive ul li {
 	font: 600 .875em/1.5 'OpenSans', Arial, sans-serif;
